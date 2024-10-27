@@ -1,4 +1,4 @@
-# Student name: <Dani Castro>
+# Student name: Dani Castro
 
 ## Student email: <dcastro9@collin.edu>
 
